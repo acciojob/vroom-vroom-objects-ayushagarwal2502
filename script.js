@@ -1,5 +1,5 @@
 // Complete the js code
-ffunction Car(make, model) {
+function Car(make, model) {
     this.make = make;
     this.model = model;
 }
